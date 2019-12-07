@@ -9,3 +9,5 @@
 3. 第二次的user表為**新增**address欄位，並產生migration file，然後推到資料庫上
 4. 第三次的user表為**新增**phone欄位，**移除**name欄位，並產生migration file，然後推到資料庫上
 
+![](./1.png)
+![](./2.png)
